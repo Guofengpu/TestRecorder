@@ -149,6 +149,9 @@ public class MainActivity extends Activity {
 	        
 	        
 	    }; 
+		
+		
+		/*测试数据分发 下达 必须要认真的生活每一天 都要*/
 	
 	
 }
